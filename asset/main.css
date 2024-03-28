@@ -52,7 +52,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin-left: -180px;
+    margin-left: -200px;
     position: fixed;
     left: 50%;
     top: -100%;
@@ -76,7 +76,6 @@ body {
 .modal-body {
     display: flex;
     justify-content: center;
-    align-items: center;
     padding: 20px;
 }
 .modal-body_text {
